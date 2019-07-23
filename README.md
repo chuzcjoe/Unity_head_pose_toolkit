@@ -5,4 +5,4 @@
 
 Detailed description has been added to the main interface.
 Moreover, a new function has been added which is the gaze direction annotation.
-.exe files are available in release/ directory. Make sure that you run it on Windows OS and choose the resolution of 1280x720(windowed).
+.exe files are available by contacting me chu153@purdue.edu. Make sure that you run it on Windows OS and choose the resolution of 1280x720(windowed).
